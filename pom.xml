@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.harshal</groupId>
   <artifactId>pwd-service</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-RELEASE</version>
   
   <build>
 	  <finalName>pwd-service-app</finalName>
